@@ -14,7 +14,7 @@ Et voici le MLD :
 
 ### Une petite explication des différentes entités :
 
-- **Consommation** : représente le type de consommation (sur place ou à emporter)
+- **Consommation** : représente le type de consommation (sur place ou à emporter )
 - **Vente** : représente une vente
 - **LigneDeVente** : représente une ligne de vente (le prix est le prix unitaire en fonction de la taille si présente et
   des suppléments si présents)
@@ -25,7 +25,7 @@ Et voici le MLD :
   pour les pizzas. Il peut y avoir 4 suppléments maximum par pizza.
 - **TypeProduit** : représente le type de produit (pizza, boisson, dessert)
 
-Vous pouvez installer cette base de données sur votre serveur MySQL en exécutant le script `ventepizza-start.sql` situé
+Vous pouvez installer cette base de données sur votre serveur M     ySQL en exécutant le script `ventepizza-start.sql` situé
 dans le dossier `sql\script`.
 
 Pour vous faciliter le travail (je sais, je sais, je suis trop gentil), je vous ai fait un script Python qui s'en
