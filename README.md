@@ -6,7 +6,7 @@
 
 ## DB ventepizza :
 
-Voici le MCD de la base de données ventepizza :
+Voici le MCD de la base de données  ventepizza :
 ![MCD de vente pizza](./img/mcd-pizzasale-start.png)
 
 Et voici le MLD :
